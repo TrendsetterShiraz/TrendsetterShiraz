@@ -1,6 +1,6 @@
 # Hi there, I am Shiraz. 👋
 
-<a href="#"><img align="left" width="47%" height="187px" src="https://github-readme-stats.vercel.app/api?username=TrendsetterShiraz&show_icons=true&theme=midnight-purple" /></a>
+<a href="#"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TrendsetterShiraz&show_icons=true&theme=midnight-purple" /></a>
 <a href="#"><img align="left" width="47%" height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrendsetterShiraz&layout=compact&theme=midnight-purple" /></a>
 
 <a href="#"><img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
