@@ -1,7 +1,8 @@
 <br><br>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div align="center">
-  <img src"https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
   <h1>Hi 👋, I'm Shiraz</h1>
 <a href="https://www.linkedin.com/in/trendsettershiraz/">
   <img align="center" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
