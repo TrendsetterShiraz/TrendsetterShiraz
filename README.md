@@ -1,6 +1,6 @@
 <br><br>
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
 </div>
 <div align="center">
   <h1>Hi 👋, I'm Shiraz</h1>
