@@ -62,7 +62,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/trendsettershiraz/trendsettershiraz/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <div align="center">
