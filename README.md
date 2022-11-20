@@ -30,13 +30,11 @@
   <img src="programming_languages/python.svg" width="50"/>
   
 </div>
-  
-  
 <div align="center">
-  <br>
   <summary><h2 style="display: inline-block;">Backend Frameworks:</h2></summary>
-  
-  
+  <img src="backend_frameworks/django.svg" width="50"/>
+  <img src="backend_frameworks/fastapi.svg" width="50"/>
+  <img src="backend_frameworks/flask.svg" width="50"/>
   
 </div>
 
