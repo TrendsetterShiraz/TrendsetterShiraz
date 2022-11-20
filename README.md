@@ -1,15 +1,35 @@
-<br><br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="240"/>
-</div>
 <div align="center">
-  <h1>Hi 👋, I'm Shiraz</h1>
-<a href="https://www.linkedin.com/in/trendsettershiraz/">
-  <img align="center" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="360"/>
+  <hr>
+  <summary><h1 style="display: inline-block;">Hi, I am Shiraz</h1></summary>
+  <p><h4 align="center"><samp> I am a highly motivated Software Engineer who loves to solve bugs as they occur throughout my coding journey.</samp></h4></p>
+</div>
+<div>
+  
+- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
+- 💬 <samp>Ask me about the Data Structures & Algorithms.
+- 🤔 <samp>The Program works but is it the efficient approach?
 </div>
 
-<br><br>
+<div align="center">
+<hr>
+<summary><h2>Connect With Me Here: <a href="https://www.linkedin.com/in/trendsettershiraz/">
+  <img align="center" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></h2></summary>
+</div>
+
+<div align="center">
+<hr>
+<summary><h2 style="display: inline-block;">Skills:</h2></summary>
+<summary><h4 style="display: inline-block;">Programming Languages:</h4></summary>
+  
+
+  
+</div>
+  
+  
+<div align="center">
+  
+</div>
 
 <p align="center"><img href="#" align="center" src="https://github-readme-stats.vercel.app/api?username=trendsettershiraz&show_icons=true&locale=en&theme=midnight-purple" alt="trendsettershiraz" /></p>
 
