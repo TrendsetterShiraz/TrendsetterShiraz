@@ -5,8 +5,9 @@
 <a href="https://www.linkedin.com/in/trendsettershiraz/">
   <img align="center" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 </div>
+
+<br><br>
 
 <p align="center"><img href="#" align="center" src="https://github-readme-stats.vercel.app/api?username=trendsettershiraz&show_icons=true&locale=en&theme=midnight-purple" alt="trendsettershiraz" /></p>
 
