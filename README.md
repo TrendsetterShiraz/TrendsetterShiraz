@@ -20,14 +20,23 @@
 <div align="center">
 <hr>
 <summary><h2 style="display: inline-block;">Skills:</h2></summary>
-<summary><h4 style="display: inline-block;">Programming Languages:</h4></summary>
+<summary><h2 style="display: inline-block;">Programming Languages:</h2></summary>
   
-
+  <img src="programming_languages/cpp.svg" width="50"/>
+  <img src="programming_languages/flutter.svg" width="50"/>
+  <img src="programming_languages/java.svg" width="50"/>
+  <img src="programming_languages/javascript.svg" width="50"/>
+  <img src="programming_languages/nodejs.svg" width="50"/>
+  <img src="programming_languages/python.svg" width="50"/>
   
 </div>
   
   
 <div align="center">
+  <br>
+  <summary><h2 style="display: inline-block;">Backend Frameworks:</h2></summary>
+  
+  
   
 </div>
 
