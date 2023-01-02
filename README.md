@@ -16,6 +16,7 @@
 <summary><h2 style="display: inline-block;">Skills:</h2></summary>
 <summary><h2 style="display: inline-block;">Programming Languages:</h2></summary>
 <img src="programming_languages/cpp.svg" width="50"/>
+<img src="programming_languages/c-sharp.svg" width="50"/>
 <img src="programming_languages/flutter.svg" width="50"/>
 <img src="programming_languages/java.svg" width="50"/>
 <img src="programming_languages/javascript.svg" width="50"/>
@@ -24,6 +25,7 @@
 <br/>
 
 <summary><h2 style="display: inline-block;">Backend Frameworks:</h2></summary>
+<img src="backend_frameworks/dot-net.svg" width="50"/>
 <img src="backend_frameworks/django.svg" width="50"/>
 <img src="backend_frameworks/fastapi.svg" width="50"/>
 <img src="backend_frameworks/flask.svg" width="50"/>
